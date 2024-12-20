@@ -1,0 +1,30 @@
+{
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "name": "react-assignment-1",
+  "version": "1.0.0",
+  "description": "react assignment 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naveenkumar756/React-Assignment-1.git"
+  },
+  "keywords": [
+    "assignment"
+  ],
+  "author": "naveen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naveenkumar756/React-Assignment-1/issues"
+  },
+  "homepage": "https://github.com/naveenkumar756/React-Assignment-1#readme"
+}
